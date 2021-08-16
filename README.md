@@ -7,7 +7,7 @@ This project was created using the openweathermap API.
 
 This project can give you the current temperature from differents cities of the world. Also you can know the minimum and maximun temperature and the humidity. 
 
-### Demo Site: 
+### Go to the Demo Site to see the project 
 https://jolly-elion-00c3a5.netlify.app/
 
 
